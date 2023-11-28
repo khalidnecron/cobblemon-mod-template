@@ -13,7 +13,7 @@ authors = [
 description = '''
 Example
 '''
-logoFile = "assets/cobbreeding/icon.png"
+logoFile = "assets/modid/icon.png"
 
 [[dependencies.cobbletemplate]]
 modId = "forge"
